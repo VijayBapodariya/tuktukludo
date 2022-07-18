@@ -654,7 +654,7 @@ input::-webkit-input-placeholder {
     display: inline-block;
 }
 .single-screenshot.slick-center {
-    background-image: url(../img/screenshot/mockup.png);
+    /* background-image: url(../img/screenshot/mockup.png); */
     background-size: 100% 100%;
 }
 .single-screenshot.slick-center img {
